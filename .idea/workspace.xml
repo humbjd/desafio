@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b739557f-3443-46ec-908a-8e8e03c0db8a" name="Changes" comment="Desafio Java - Alura">
-      <change beforePath="$PROJECT_DIR$/src/Desafio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Desafio.java" afterDir="false" />
-    </list>
+    <list default="true" id="b739557f-3443-46ec-908a-8e8e03c0db8a" name="Changes" comment="Desafio Java - Alura" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +70,28 @@
       <option name="project" value="LOCAL" />
       <updated>1683660786254</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Desafio Java - Alura">
+      <created>1683661133757</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683661133757</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Desafio Java - Alura">
+      <created>1683661372637</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683661372637</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Desafio Java - Alura">
+      <created>1683661390287</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683661390287</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
