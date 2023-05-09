@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b739557f-3443-46ec-908a-8e8e03c0db8a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Desafio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="b739557f-3443-46ec-908a-8e8e03c0db8a" name="Changes" comment="Desafio Java - Alura">
+      <change beforePath="$PROJECT_DIR$/src/Desafio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Desafio.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +65,18 @@
       <option name="presentableId" value="Default" />
       <updated>1683658271516</updated>
     </task>
+    <task id="LOCAL-00001" summary="Desafio Java - Alura">
+      <created>1683660786254</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683660786254</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Desafio Java - Alura" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafio Java - Alura" />
   </component>
 </project>
