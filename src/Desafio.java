@@ -20,7 +20,7 @@ public class Desafio {
                 2 - Transferir valor
                 3 - Receber valor
                 4 - Sair
-                """;
+                    """;
 
         Scanner leitura = new Scanner(System.in);
 
